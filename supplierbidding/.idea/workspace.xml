@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c662fffe-581c-4841-80b2-9bbecf5196ed" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="supplierbidding@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="supplierbidding@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="supplierbidding@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="supplierbidding: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="supplierbidding@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="supplierbidding: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_sys_applyform: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\apache-maven-3.6.2\repo" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bWvm5mZPKAH8BBdNDPXhabV9ZT" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="bbb20264-a223-4317-a537-ec0bab092c0a" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37264618" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.laodyu.service.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SupplierBidding\Bishe\supplierbidding\supplierbidding-server\supplierbidding-web\src\main\java\com\laodyu\web\activiti\controller\other" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.laodyu.web.controller.sys" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Maven\apache-maven-3.6.2\repo\org\activiti\activiti-image-generator\6.0.0\activiti-image-generator-6.0.0.jar" />
+      <recent name="E:\SupplierBidding\Bishe\supplierbidding\supplierbidding-server\supplierbidding-web\src\main\java\com\laodyu\web\activiti\controller\other" />
+      <recent name="E:\SupplierBidding\Bishe\supplierbidding\supplierbidding-server\supplierbidding-web\src\main\resources" />
+      <recent name="E:\SupplierBidding\Bishe\supplierbidding\supplierbidding-server\supplierbidding-web\src\main\java\com\laodyu\web\activiti\controller" />
+      <recent name="E:\SupplierBidding\Bishe\supplierbidding\supplierbidding-server\supplierbidding-web\src\main\java\com\laodyu\web\activiti" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SupplierbiddingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="supplierbidding-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.laodyu.web.SupplierbiddingApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c662fffe-581c-4841-80b2-9bbecf5196ed" name="Default Changelist" comment="" />
+      <created>1588760819997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588760819997</updated>
+      <workItem from="1588760824191" duration="12538000" />
+      <workItem from="1588812278009" duration="82391000" />
+      <workItem from="1589012287428" duration="48017000" />
+      <workItem from="1589159975854" duration="52865000" />
+      <workItem from="1589420467058" duration="28113000" />
+      <workItem from="1589767786727" duration="655000" />
+      <workItem from="1589853607794" duration="3118000" />
+      <workItem from="1589940122447" duration="3922000" />
+      <workItem from="1590041544501" duration="719000" />
+      <workItem from="1590806552676" duration="41252000" />
+      <workItem from="1591150659216" duration="41766000" />
+      <workItem from="1591354548192" duration="7527000" />
+      <workItem from="1591521576715" duration="2027000" />
+      <workItem from="1598682414572" duration="724000" />
+      <workItem from="1598687102051" duration="84000" />
+      <workItem from="1598687206093" duration="45000" />
+      <workItem from="1598692410409" duration="911000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-web/src/main/java/com/laodyu/web/config/shiro/URLPathMatchFilter.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-web/src/main/java/com/laodyu/web/controller/sys/PermissController.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-web/src/main/java/com/laodyu/web/activiti/controller/ActivitiTest.java</url>
+          <line>234</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-web/src/main/java/com/laodyu/web/activiti/controller/ActivitiTest.java</url>
+          <line>219</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-web/src/main/java/com/laodyu/web/util/ActivitiUtils.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-web/src/main/java/com/laodyu/web/util/ActivitiUtils.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-web/src/main/java/com/laodyu/web/controller/supplier/SupplierController.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-services/src/main/java/com/laodyu/service/impl/SupplierServiceImpl.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-web/src/main/java/com/laodyu/web/controller/supplier/SupplierController.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-web/src/main/java/com/laodyu/web/activiti/service/impl/ActivitiServiceImpl.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-services/src/main/java/com/laodyu/service/impl/SupplierServiceImpl.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-web/src/main/java/com/laodyu/web/controller/sys/UserController.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-services/src/main/java/com/laodyu/service/impl/UserFileServiceImpl.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-web/src/main/java/com/laodyu/web/controller/notice/NoticeController.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-services/src/main/java/com/laodyu/service/impl/NoticeServiceImpl.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-web/src/main/java/com/laodyu/web/controller/tendering/TenderingApplyProjectController.java</url>
+          <line>154</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-services/src/main/java/com/laodyu/service/impl/BidServiceImpl.java</url>
+          <line>227</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-web/src/main/java/com/laodyu/web/controller/bid/BidController.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/supplierbidding-server/supplierbidding-services/src/main/java/com/laodyu/service/impl/BidServiceImpl.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/supplierbidding$SupplierbiddingApplication.ic" NAME="SupplierbiddingApplication Coverage Results" MODIFIED="1589256330543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
